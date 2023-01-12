@@ -1,2 +1,1 @@
-# springjdbc cxt
-#蔡
+#简易的使用spring+jdbc
